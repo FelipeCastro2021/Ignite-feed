@@ -10,7 +10,7 @@ export function Sidebar() {
       />
 
       <div className={styles.profile}>
-        <img src="https://github.com/FelipeCastro2021.png" />
+        <img src="https://github.com/RyanCasf.png" />
 
         <strong className={styles.name}>Leslie Alexander</strong>
         <span className={styles.occupation}>Web Development</span>
